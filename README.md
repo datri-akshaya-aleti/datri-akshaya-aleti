@@ -72,3 +72,75 @@
 ## 🚀 MISSION LOG — PROJECTS
 
 <div align="center">
+╔══════════════════════════════════════════════════════════════════╗
+
+║  PROJECT_01: JOB ANALYZER AI                          [ACTIVE]  ║
+
+║  ──────────────────────────────────────────────────────────────  ║
+
+║  > Resume parsing using PyMuPDF + python-docx                    ║
+
+║  > ATS scoring using TF-IDF + Cosine Similarity                  ║
+
+║  > Job matching using Sentence-BERT                              ║
+
+║  > Live jobs from Adzuna API                                     ║
+
+║  > Stack: Python | FastAPI | React | PostgreSQL | NLP            ║
+
+║  > LINK: github.com/datri-akshaya-aleti/job-analyzer-ai          ║
+
+╚══════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+
+║  PROJECT_02: WOMEN SAFETY APPLICATION                 [ACTIVE]  ║
+
+║  ──────────────────────────────────────────────────────────────  ║
+
+║  > Safety application with emergency features                    ║
+
+║  > LINK: github.com/datri-akshaya-aleti/women-safety-application ║
+
+╚══════════════════════════════════════════════════════════════════╝
+
+</div>
+
+---
+
+## 📊 SYSTEM ANALYTICS
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=datri-akshaya-aleti&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=00ffff&icon_color=ff00ff&text_color=ffffff&bg_color=0d0d0d"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datri-akshaya-aleti&layout=compact&theme=radical&hide_border=true&title_color=00ffff&text_color=ffffff&bg_color=0d0d0d"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=datri-akshaya-aleti&theme=radical&hide_border=true&background=0d0d0d&stroke=00ffff&ring=ff00ff&fire=ffff00&currStreakLabel=00ffff" />
+</div>
+
+---
+
+## 🏆 ACHIEVEMENTS UNLOCKED
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=datri-akshaya-aleti&theme=radical&no-frame=true&row=1&column=6&margin-w=10" />
+</div>
+
+---
+
+<div align="center">
+
+SYSTEM MESSAGE: "The secret of getting ahead is getting started."
+
+EXECUTING: dream.job() ...
+
+STATUS: SEARCHING...
+
+RESULT: AVAILABLE FOR HIRE ✅
+
+
+<img src="https://komarev.com/ghpvc/?username=datri-akshaya-aleti&color=00ffff&style=for-the-badge&label=PROFILE+SCANS" />
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6366f1,100:0d0d0d&height=150&section=footer&text=LET'S+BUILD+THE+FUTURE&fontSize=30&fontColor=00ffff&animation=twinkling" />
+
+</div>
