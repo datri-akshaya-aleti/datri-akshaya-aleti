@@ -1,6 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03045e,50:0077b6,100:00b4d8&height=220&section=header&text=Datri%20Akshaya%20Aleti&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20%7C%20ML%20Engineer%20%7C%20Full%20Stack&descAlignY=58&descSize=18&descFontColor=90e0ef" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000814,30:03045e,70:0077b6,100:00b4d8&height=300&section=header&text=Datri%20Akshaya%20Aleti&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Developer%20%7C%20ML%20Engineer%20%7C%20Full%20Stack&descAlignY=58&descSize=18&descFontColor=90e0ef" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=19&pause=1000&color=00B4D8&center=true&vCenter=true&random=false&width=700&lines=🚀+Building+AI+Powered+Applications;🧠+Machine+Learning+%26+NLP+Engineer;⚡+Python+%7C+FastAPI+%7C+React+%7C+PostgreSQL;🔐+Phishing+Detection+%7C+Resume+Analyzer;🎓+Data+Science+%40+10k+Coders+Hyderabad;💼+Fresh+Graduate+%7C+Open+to+Work!" />
 
