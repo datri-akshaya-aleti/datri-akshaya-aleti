@@ -1,135 +1,74 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Datri%20Akshaya%20Aleti&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Developer%20%7C%20ML%20Engineer%20%7C%20Full%20Stack&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,100:6366f1&height=250&section=header&text=DATRI%20AKSHAYA&fontSize=60&fontColor=00ffff&animation=twinkling&fontAlignY=40&desc=ALETI&descSize=30&descFontColor=ff00ff&descAlignY=65" />
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=🚀+Building+AI+Powered+Applications;🧠+Machine+Learning+%26+NLP+Developer;⚡+Python+%7C+FastAPI+%7C+React;🎯+Turning+Ideas+into+Reality;💡+Fresh+Grad+%7C+Open+to+Work!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=20&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=700&lines=⚡+AI+%2F+ML+ENGINEER+INITIALIZING...;🔐+LOADING+PYTHON+MODULES...;🤖+SENTENCE-BERT+MODEL+ACTIVATED;💻+FASTAPI+SERVER+RUNNING+ON+8000;🧠+NLP+PIPELINE+READY;🎯+OPEN+TO+WORK+—+HIRE+ME!" alt="Typing SVG" />
 
 <br/>
 
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/datri-akshaya-aleti)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-00ffff?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/your-linkedin)
+[![GitHub](https://img.shields.io/badge/GITHUB-ff00ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/datri-akshaya-aleti)
+[![Email](https://img.shields.io/badge/EMAIL-ffff00?style=for-the-badge&logo=gmail&logoColor=black)](mailto:your@email.com)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500" />
+</div>
 
-## 👩‍💻 About Me
+---
 
-```python
-class DatariAkshaya:
-    def __init__(self):
-        self.name = "Datri Akshaya Aleti"
-        self.location = "Hyderabad, India 🇮🇳"
-        self.education = "Fresh Graduate"
-        self.course = "Data Science @ 10k Coders"
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Full Stack Development",
-            "Building Real Projects"
-        ]
-    
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing!")
-
-me = DatariAkshaya()
-me.say_hi()
+```
+> ⚡ `STATUS: ONLINE` | 📍 `LOCATION: HYDERABAD, INDIA` | 🎯 `MODE: OPEN TO WORK`
 ```
 
-<br clear="right"/>
+```python
+╔══════════════════════════════════════════════════════════╗
+║  SYSTEM BOOT: datri_akshaya_aleti.exe                    ║
+║  ─────────────────────────────────────────────────────── ║
+║  NAME     : Datri Akshaya Aleti                          ║
+║  ROLE     : AI / ML Developer                            ║
+║  COURSE   : Data Science @ 10k Coders, Hyderabad         ║
+║  STATUS   : Fresh Graduate | Seeking Opportunities       ║
+║  PASSION  : Building AI Powered Real World Projects      ║
+║  ─────────────────────────────────────────────────────── ║
+║  SKILLS LOADING...                                       ║
+║  [████████████████████] 100% COMPLETE                    ║
+╚══════════════════════════════════════════════════════════╝
+```
 
 ---
 
-## 🛠️ Tech Arsenal
+## ⚡ TECH ARSENAL
 
 <div align="center">
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🔵 LANGUAGES
+![Python](https://img.shields.io/badge/PYTHON-00ffff?style=for-the-badge&logo=python&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-ffff00?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-ff00ff?style=for-the-badge&logo=mysql&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-ff6600?style=for-the-badge&logo=html5&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-0099ff?style=for-the-badge&logo=css3&logoColor=black)
+![R](https://img.shields.io/badge/R-00ffcc?style=for-the-badge&logo=r&logoColor=black)
 
-### ⚡ Frameworks
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### ⚡ FRAMEWORKS
+![FastAPI](https://img.shields.io/badge/FASTAPI-00ffff?style=for-the-badge&logo=fastapi&logoColor=black)
+![React](https://img.shields.io/badge/REACT-ff00ff?style=for-the-badge&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-ffff00?style=for-the-badge&logo=postgresql&logoColor=black)
 
-### 🤖 AI & ML
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-
-### 🔧 Tools
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🎯 [**Job Analyzer AI**](https://github.com/datri-akshaya-aleti/job-analyzer-ai) | AI powered resume analyzer with ATS scoring & live job recommendations | Python, FastAPI, React, NLP, ML |
-| 🛡️ [**Women Safety App**](https://github.com/datri-akshaya-aleti/women-safety-application) | Safety application for women with emergency features | Python, ML |
+### 🤖 AI / ML
+![scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-ff6600?style=for-the-badge&logo=scikit-learn&logoColor=black)
+![spaCy](https://img.shields.io/badge/SPACY-00ffcc?style=for-the-badge&logo=spacy&logoColor=black)
+![HuggingFace](https://img.shields.io/badge/HUGGINGFACE-ffff00?style=for-the-badge&logo=huggingface&logoColor=black)
+![Pandas](https://img.shields.io/badge/PANDAS-00ffff?style=for-the-badge&logo=pandas&logoColor=black)
+![NumPy](https://img.shields.io/badge/NUMPY-ff00ff?style=for-the-badge&logo=numpy&logoColor=black)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 MISSION LOG — PROJECTS
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=datri-akshaya-aleti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datri-akshaya-aleti&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=datri-akshaya-aleti&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=datri-akshaya-aleti&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/datri-akshaya-aleti/datri-akshaya-aleti/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
----
-
-<div align="center">
-
-### 💬 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=datri-akshaya-aleti&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer"/>
-
-</div>
